@@ -2,7 +2,7 @@ const projetos = [
   {
     nome: "Meu Portifólio",
     descricao: "Painel de Projetos Profissionais",
-    link: "#"
+    link: "https://github.com/Uchoa-s/Portifolio/tree/3059d081fa608de214932d2bbb6da5db2a451506/Portif%C3%B3lio"
   },
 ];
 
